@@ -1,0 +1,4 @@
+body { background: #564534; }
+
+.loginform { width: 350px; height: 250px; background: #8a8a8a; -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px; position: absolute; top:0; bottom: 0; left: 0; right: 0; margin: auto; box-shadow: 5px 5px 5px #000; }
+.loginform form { padding-top: 35px; padding-left: 50px; }
