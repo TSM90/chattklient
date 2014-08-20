@@ -4,3 +4,5 @@ body { background: #564534; }
 .loginform form { padding-top: 35px; padding-left: 50px; } 
 table { margin: 25% auto 0 auto; color: #fff; }
 
+.bubbleguy { margin-right: auto; margin-left: auto; width: 150px; }
+.randomize { marign-right: auto; margin-left: auto; color: #ff3d00; }
