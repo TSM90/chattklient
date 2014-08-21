@@ -1,11 +1,9 @@
 (function(count) {
 	var words = {
-		sentence1: ["Lets"],
-		sentence2: ["talk", "do","play","kill","programming"],
-		sentence3: ["science","programming","coffee","hipster","hipstertalk"]
+		sentence1: ["Lets Talk science!", "lets kill programming!", "Why do hipster?", "dont talk hipster!!", "Programming is everything!", "Who am I?", "Who are you?", "My favorite colour is pants!", "I can count to potatoes!", "Brilliant minds think alike!", "WWW = W.hy W.orld W.ay stupid"]
 	};
 
-	var sentence = ["sentence1","sentence2","sentence3"];
+	var sentence = ["sentence1"];
 
 	var arrayRandom = function(myArray) {
 		return myArray[ Math.floor( Math.random() * myArray.length)];
